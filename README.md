@@ -43,7 +43,6 @@ Fitur ini memungkinkan pengguna untuk mengakses acara atau kegiatan dari rayon-r
 
 Perlu diingat bahwa fitur-fitur ini dapat bervariasi tergantung pada status anda sebagai anggota organisasi dan tingkat kaderisasi yang anda tempuh,
 
-
 ## Screenshot
 
 -   Halaman Utama
@@ -98,8 +97,8 @@ Perlu diingat bahwa fitur-fitur ini dapat bervariasi tergantung pada status anda
 ### Cara Install
 
 1. Clone atau download source code
-    - Para terminal, clone repo `git clone ghttps://github.com/rifqimunawar/laracrot.git`
-    - atau `git clone https://github.com/rifqimunawar/laracrot.git`
+    - Pada terminal, clone repo `git clone https://github.com/rifqimunawar/laracrot.git`
+    - Atau `git clone https://github.com/rifqimunawar/laracrot.git`
     - Jika tidak menggunakan Git, silakan **Download Zip** dan *extract* pada direktori web server (misal: xampp/htdocs)
 2. `cd laracrot`
 3. `composer install`
