@@ -1,0 +1,4 @@
+INI ADALAH CATATAN
+1. Gunakan PHP versi 8.1 keatas
+2. Dibangun menggunakan Framework PHP Laravel 10
+3. Copyright by @rifqimunawar -> Project Name laracrot
